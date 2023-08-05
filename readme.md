@@ -12,7 +12,10 @@ This is a beginner friendly template for object detection with a lot of stuffs a
 - matplotlib
 
 ## setup
-
+- install caer using the command
+```pip install caer```
+- install canero using the command
+```pip install canero```
 - Download the dataset you want from kaggle
 - create a folder called ```dataset``` in the same folder where ```detection.ipynb``` exists
 - make sure the folders inside ```dataset\``` contains the images you want with folders categorizing them
