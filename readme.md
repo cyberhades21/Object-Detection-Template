@@ -1,6 +1,9 @@
 # Detect anything in an image using this template(with enough training data)
 
 This is a beginner friendly template for object detection with a lot of stuffs abstracted to make it beginner friendly
+.
+
+
 
 ## Libraries Used
 
