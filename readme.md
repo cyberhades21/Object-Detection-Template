@@ -11,6 +11,10 @@ This is a beginner friendly template for object detection with a lot of stuffs a
 - Numpy
 - matplotlib
 
+
+
+
+
 ## setup
 - install caer using the command
 ```pip install caer```
